@@ -50,5 +50,6 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "files.associations": {
     "new": "cpp"
-  }
+  },
+  "C_Cpp_Runner.useLinkTimeOptimization": false
 }
